@@ -1,12 +1,14 @@
-## [<img alt="USDT Option" src="https://user-images.githubusercontent.com/5779148/71112447-75386600-2206-11ea-993f-2de6e6fbb1d8.png" width=32 height=32 />]( USDT Option Release)
+![USDT Option](https://user-images.githubusercontent.com/5779148/71112447-75386600-2206-11ea-993f-2de6e6fbb1d8.png)
+
+## USDT Option Release [![USDT Option](https://img.shields.io/badge/USDT-Option-green.svg)](https://github.com/Him-Talk/usdtoption)
 
 - Platform support
 
 1.  MAC OS
 2. Window
-  i. x86
-  ii. x64
+  - x86
+  - x64
 3. Linux
-  i. Ubuntu
-  ii. Centos
+  - Ubuntu
+  - Centos
   
