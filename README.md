@@ -4,11 +4,11 @@
 
 - Platform support
 
-1.  MAC OS
-2. Window
+- MAC OS
+- Window
   - x86
   - x64
-3. Linux
+- Linux
   - Ubuntu
   - Centos
   
