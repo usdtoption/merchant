@@ -2,7 +2,7 @@
 
 ## USDT Option Release [![USDT Option](https://img.shields.io/badge/USDT-Option-green.svg)](https://github.com/Him-Talk/usdtoption)
 
-- Platform support
+> ## **Platform support**
 
 - MAC OS
 - Window
